@@ -25,13 +25,16 @@ img/
 js/
 	app/
 		models/
+		  tweet.collection.js
+		  tweet.model.js
 		views/
+		  tweet.view.js
+		app.js (router)
     main.js
 vendor/
 	backbone.js
 	require.js
 	jquery.js
 	underscore.js
-
 index.html
 ```
